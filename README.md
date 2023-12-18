@@ -14,6 +14,18 @@ Los enfrentamientos se miden segun la suma total de habilidade de los participan
 -   Masculino: Habilidad + Fuerza + Velocidad desplazamiento + Suerte.
 -   Femenino: Habilidad + Velocidad de reacción + Suerte.
 
+## Captures
+
+<img src="storage/app/public/captures/tenis_habilidad.JPG" width="800" alt="Habilidad de tenis">
+
+<img src="storage/app/public/captures/Prueba1.gif" height="350" alt="Prueba 1">
+
+<img src="storage/app/public/captures/Prueba2.gif" height="350" alt="Prueba 2">
+
+## Futuros / Pendiente
+
+-   La intención es que utilizar la clase Tournament para crear una instancia que se pueda enviar en un JSON y sea recibida, reguardado en una BD.
+
 ## Requisitos
 
 -   PHP >= 7.4 | usado: PHP 8.2.13 (cli)
