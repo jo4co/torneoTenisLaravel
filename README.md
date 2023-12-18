@@ -4,12 +4,12 @@
 
 Este proyecto genera una grilla de un torneo de tenis por rondas de eliminación directa sin empates, partiendo de 2 inputs que definen ciertos valores en el torneo.
 
--   Genero del torneo: Se refiere al sexo que tendran los participantes masculino o femenino.
+-   Genero del torneo: Se refiere al sexo que tendrán los participantes masculino o femenino.
 -   Cantidad de participantes: Este valor permite solamente potencias de 2, lo que realiza un torneo con grupos equitativos.
 
-Una vez generada la creación del proyecto automaticamente se generan los participantes, con nombres y habilidades armadas al azar donde solamente la suerte (Luck) sera un atributo que podra ser negativo.
+Una vez generada la creación del proyecto automáticamente se generan los participantes, con nombres y habilidades armadas al azar donde solamente la suerte (Luck) será un atributo que podrá ser negativo.
 
-Los enfrentamientos se miden segun la suma total de habilidade de los participantes, teniendo cada genero una suma distinta.
+Los enfrentamientos se miden según la suma total de habilidades de los participantes, teniendo cada genero una suma distinta.
 
 -   Masculino: Habilidad + Fuerza + Velocidad desplazamiento + Suerte.
 -   Femenino: Habilidad + Velocidad de reacción + Suerte.
@@ -24,7 +24,7 @@ Los enfrentamientos se miden segun la suma total de habilidade de los participan
 
 ## Futuros / Pendiente
 
--   La intención es que utilizar la clase Tournament para crear una instancia que se pueda enviar en un JSON y sea recibida, reguardado en una BD.
+-   La intención es que utilizar la clase Tournament para crear una instancia que se pueda enviar en un JSON y sea recibida, resguardado en una BD.
 
 ## Requisitos
 
